@@ -1,4 +1,4 @@
-# Welcome to our Learning and Collaboration Hub: Dev world!
+<h1 align="center"> Welcome to our Learning and Collaboration Hub: Dev world!</h1>
 
 Dev World is a GitHub organization dedicated to fostering a vibrant learning community, encouraging collaboration on ambitious projects, and making valuable contributions to the open source world. We believe in the power of collective knowledge and the importance of continuous growth in the ever-evolving field of software development.
 
@@ -12,8 +12,7 @@ We welcome developers from all backgrounds and experience levels to join our com
 
 To get started, head over to our [Projects](link-to-projects) section, where you'll find a range of exciting initiatives to contribute to. Don't hesitate to jump in, ask questions, and share your insights with fellow members. We believe in learning together and supporting each other throughout the process.
 
-## Join the Community
-<h1>To get started</h1>
+<h1 align="center">To get started</h1>
 <h2>Join the devWorld GitHub Org by raising an <a href="https://github.com/D-e-v-world/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</h2>
 
 Join us on this exciting adventure of learning, collaboration, and making a positive impact in the open source community. Connect with us on [Discord](link-to-discord) to engage in discussions, seek help, and network with other developers. Stay up to date with our latest news and events by following us on [Twitter](link-to-twitter).
