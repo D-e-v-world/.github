@@ -13,6 +13,8 @@ We welcome developers from all backgrounds and experience levels to join our com
 To get started, head over to our [Projects](link-to-projects) section, where you'll find a range of exciting initiatives to contribute to. Don't hesitate to jump in, ask questions, and share your insights with fellow members. We believe in learning together and supporting each other throughout the process.
 
 ## Join the Community
+<h1>To get started</h1>
+<h2>Join the EddieHub GitHub Org by raising an <a href="https://github.com/D-e-v-world/.github/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=issue_template.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</h2>
 
 Join us on this exciting adventure of learning, collaboration, and making a positive impact in the open source community. Connect with us on [Discord](link-to-discord) to engage in discussions, seek help, and network with other developers. Stay up to date with our latest news and events by following us on [Twitter](link-to-twitter).
 
