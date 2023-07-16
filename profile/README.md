@@ -14,9 +14,7 @@ To get started, head over to our [Projects](link-to-projects) section, where you
 
 ## Join the Community
 <h1>To get started</h1>
-<h2>Join the devWorld GitHub Org by raising an <a href="https://github.com/D-e-v-world/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=issue_template.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</h2>
-
-<li>Join the EddieHub GitHub Org by raising an <a href="https://github.com/EddieHubCommunity/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</li>
+<h2>Join the devWorld GitHub Org by raising an <a href="https://github.com/D-e-v-world/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">issue</a> (you will receive an invitation)</h2>
 
 Join us on this exciting adventure of learning, collaboration, and making a positive impact in the open source community. Connect with us on [Discord](link-to-discord) to engage in discussions, seek help, and network with other developers. Stay up to date with our latest news and events by following us on [Twitter](link-to-twitter).
 
